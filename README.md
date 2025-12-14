@@ -10,6 +10,16 @@ Small collection of NumPy practice scripts illustrating array creation, data typ
 - [DataType.py](DataType.py): shows how NumPy infers and converts dtypes (ints, floats, strings, bools, complex) and how to set explicit dtype.
 - [zeroArray.py](zeroArray.py): builds zeros/ones/empty arrays, identity/diagonal matrices, `arange`, and `linspace` examples.
 - [createArryWithRandomNumber.py](createArryWithRandomNumber.py): random sampling with `rand`, `randn`, `ranf`, and `randint` for 1D/2D arrays.
+- [ArathmaticOperation.py](ArathmaticOperation.py): min/max operations, indexing with `argmin`/`argmax`, square root, standard deviation, cumulative sum, and trigonometric functions.
+- [arrayFunction2.py](arrayFunction2.py): array manipulation including shuffle, unique elements, resize, flatten, and ravel operations.
+- [broadcasting.py](broadcasting.py): demonstrates NumPy broadcasting rules for arrays with different shapes.
+- [copyVsView.py](copyVsView.py): illustrates the difference between copying arrays and creating views in NumPy.
+- [InsertAndDelete.py](InsertAndDelete.py): insert, append, and delete operations for 1D and 2D arrays.
+- [iterating.py](iterating.py): demonstrates different ways to iterate through arrays using loops, `nditer`, and `ndenumerate`.
+- [jointAndSplit.py](jointAndSplit.py): concatenate, stack, and split arrays using `concatenate`, `stack`, and `array_split`.
+- [matrix.py](matrix.py): matrix operations including multiplication, transpose, inverse, determinant, eigenvalues, and other linear algebra functions.
+- [shape.py](shape.py): explores array shapes, reshaping arrays, and the `ndmin` parameter.
+- [slicing.py](slicing.py): demonstrates array indexing and slicing for 1D and 2D arrays.
 
 ## How to run
 
